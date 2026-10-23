@@ -1,0 +1,480 @@
+[
+  {
+    "name": "add",
+    "tags": [
+      "add",
+      "create",
+      "new",
+      "plus"
+    ]
+  },
+  {
+    "name": "audio",
+    "tags": [
+      "audio",
+      "files"
+    ]
+  },
+  {
+    "name": "boundary",
+    "tags": [
+      "boundary",
+      "edge",
+      "outline",
+      "terrain"
+    ]
+  },
+  {
+    "name": "brush",
+    "tags": [
+      "brush",
+      "paint",
+      "stroke",
+      "tool"
+    ]
+  },
+  {
+    "name": "c",
+    "tags": [
+      "c",
+      "languages"
+    ]
+  },
+  {
+    "name": "circle",
+    "tags": [
+      "brush",
+      "circle",
+      "round",
+      "shape"
+    ]
+  },
+  {
+    "name": "close",
+    "tags": [
+      "cancel",
+      "close",
+      "dismiss",
+      "x"
+    ]
+  },
+  {
+    "name": "code",
+    "tags": [
+      "code",
+      "source code",
+      "tools"
+    ]
+  },
+  {
+    "name": "config",
+    "tags": [
+      "config",
+      "configuration",
+      "tools"
+    ]
+  },
+  {
+    "name": "cpp",
+    "tags": [
+      "c++",
+      "cpp",
+      "languages"
+    ]
+  },
+  {
+    "name": "csharp",
+    "tags": [
+      "c#",
+      "csharp",
+      "languages"
+    ]
+  },
+  {
+    "name": "css",
+    "tags": [
+      "css",
+      "web"
+    ]
+  },
+  {
+    "name": "database",
+    "tags": [
+      "database",
+      "tools"
+    ]
+  },
+  {
+    "name": "docker",
+    "tags": [
+      "docker",
+      "tools"
+    ]
+  },
+  {
+    "name": "document",
+    "tags": [
+      "document",
+      "files"
+    ]
+  },
+  {
+    "name": "eye-off",
+    "tags": [
+      "eye",
+      "hidden",
+      "hide",
+      "invisible",
+      "off"
+    ]
+  },
+  {
+    "name": "eye",
+    "tags": [
+      "eye",
+      "show",
+      "view",
+      "visible"
+    ]
+  },
+  {
+    "name": "file",
+    "tags": [
+      "document",
+      "file",
+      "generic",
+      "page"
+    ]
+  },
+  {
+    "name": "folder-open",
+    "tags": [
+      "directory",
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "folder",
+    "tags": [
+      "files",
+      "folder"
+    ]
+  },
+  {
+    "name": "game-engine",
+    "tags": [
+      "engine",
+      "game",
+      "game engine",
+      "tools"
+    ]
+  },
+  {
+    "name": "git",
+    "tags": [
+      "git",
+      "tools"
+    ]
+  },
+  {
+    "name": "grass",
+    "tags": [
+      "field",
+      "grass",
+      "paint",
+      "terrain",
+      "vegetation"
+    ]
+  },
+  {
+    "name": "ground",
+    "tags": [
+      "ground",
+      "layers",
+      "surface",
+      "terrain"
+    ]
+  },
+  {
+    "name": "height",
+    "tags": [
+      "height",
+      "landscape",
+      "lower",
+      "raise",
+      "sculpt",
+      "terrain"
+    ]
+  },
+  {
+    "name": "html",
+    "tags": [
+      "html",
+      "web"
+    ]
+  },
+  {
+    "name": "image",
+    "tags": [
+      "files",
+      "image"
+    ]
+  },
+  {
+    "name": "inspector",
+    "tags": [
+      "fields",
+      "inspector",
+      "properties",
+      "settings",
+      "sliders"
+    ]
+  },
+  {
+    "name": "javascript",
+    "tags": [
+      "javascript",
+      "languages"
+    ]
+  },
+  {
+    "name": "json",
+    "tags": [
+      "data",
+      "json"
+    ]
+  },
+  {
+    "name": "markdown",
+    "tags": [
+      "data",
+      "markdown"
+    ]
+  },
+  {
+    "name": "mini-map",
+    "tags": [
+      "map",
+      "mini",
+      "minimap",
+      "navigation",
+      "overview"
+    ]
+  },
+  {
+    "name": "model-3d",
+    "tags": [
+      "3d",
+      "3d model",
+      "files",
+      "model"
+    ]
+  },
+  {
+    "name": "node",
+    "tags": [
+      "frameworks",
+      "node",
+      "node.js"
+    ]
+  },
+  {
+    "name": "objects",
+    "tags": [
+      "cube",
+      "object",
+      "objects",
+      "prop",
+      "scene"
+    ]
+  },
+  {
+    "name": "package",
+    "tags": [
+      "package",
+      "tools"
+    ]
+  },
+  {
+    "name": "physics",
+    "tags": [
+      "body",
+      "collision",
+      "physics",
+      "simulation"
+    ]
+  },
+  {
+    "name": "post-processing",
+    "tags": [
+      "bloom",
+      "effects",
+      "post",
+      "processing",
+      "render"
+    ]
+  },
+  {
+    "name": "python",
+    "tags": [
+      "languages",
+      "python"
+    ]
+  },
+  {
+    "name": "react",
+    "tags": [
+      "frameworks",
+      "react"
+    ]
+  },
+  {
+    "name": "remove",
+    "tags": [
+      "delete",
+      "minus",
+      "remove"
+    ]
+  },
+  {
+    "name": "rust",
+    "tags": [
+      "languages",
+      "rust"
+    ]
+  },
+  {
+    "name": "save",
+    "tags": [
+      "disk",
+      "save",
+      "store",
+      "write"
+    ]
+  },
+  {
+    "name": "scene-tree",
+    "tags": [
+      "entities",
+      "hierarchy",
+      "scene",
+      "tree"
+    ]
+  },
+  {
+    "name": "search",
+    "tags": [
+      "filter",
+      "find",
+      "magnifier",
+      "search"
+    ]
+  },
+  {
+    "name": "settings",
+    "tags": [
+      "gear",
+      "options",
+      "preferences",
+      "settings"
+    ]
+  },
+  {
+    "name": "shader",
+    "tags": [
+      "graphics",
+      "shader"
+    ]
+  },
+  {
+    "name": "shadow",
+    "tags": [
+      "light",
+      "render",
+      "shadow",
+      "shadows"
+    ]
+  },
+  {
+    "name": "square",
+    "tags": [
+      "box",
+      "brush",
+      "shape",
+      "square"
+    ]
+  },
+  {
+    "name": "tag",
+    "tags": [
+      "category",
+      "label",
+      "marker",
+      "tag"
+    ]
+  },
+  {
+    "name": "terminal",
+    "tags": [
+      "terminal",
+      "tools"
+    ]
+  },
+  {
+    "name": "toml",
+    "tags": [
+      "data",
+      "toml"
+    ]
+  },
+  {
+    "name": "tools",
+    "tags": [
+      "tool",
+      "tools",
+      "utilities",
+      "wrench"
+    ]
+  },
+  {
+    "name": "typescript",
+    "tags": [
+      "languages",
+      "typescript"
+    ]
+  },
+  {
+    "name": "video",
+    "tags": [
+      "files",
+      "video"
+    ]
+  },
+  {
+    "name": "viewport",
+    "tags": [
+      "camera",
+      "preview",
+      "render",
+      "viewport",
+      "window"
+    ]
+  },
+  {
+    "name": "warning",
+    "tags": [
+      "alert",
+      "caution",
+      "error",
+      "warning"
+    ]
+  },
+  {
+    "name": "yaml",
+    "tags": [
+      "data",
+      "yaml"
+    ]
+  }
+]

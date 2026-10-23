@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title-shader">
+  <title id="title-shader">Shader</title>
+  <defs>
+    <linearGradient id="bg-shader" x1="9" y1="4" x2="55" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9E76F7"/>
+      <stop offset="1" stop-color="#7A51D8"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#bg-shader)"/>
+  <g transform="translate(10.9626 10.9643) scale(1.753120)">
+      <path d="M10.469 17.102a4.083 4.083 0 1 1-8.166 0a4.083 4.083 0 0 1 8.166 0m5.069-9.666a4.083 4.083 0 1 0-5.446 3.296c3.13 1.231 3.867 2.474 3.475 5.828a4.083 4.083 0 1 0 5.446-3.295c-3.13-1.232-3.869-2.475-3.475-5.829" fill="#FFFFFF"/>
+  </g>
+</svg>

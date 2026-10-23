@@ -1,0 +1,302 @@
+[
+  {
+    "name": "folder",
+    "title": "Folder",
+    "category": "Files",
+    "file": "svg/folder.svg",
+    "color": "#FFB020",
+    "size": 64,
+    "fileBare": "svg-bare/folder.svg",
+    "colorBare": "#F59E0B"
+  },
+  {
+    "name": "image",
+    "title": "Image",
+    "category": "Files",
+    "file": "svg/image.svg",
+    "color": "#14B8A6",
+    "size": 64,
+    "fileBare": "svg-bare/image.svg",
+    "colorBare": "#0D9488"
+  },
+  {
+    "name": "audio",
+    "title": "Audio",
+    "category": "Files",
+    "file": "svg/audio.svg",
+    "color": "#EC4899",
+    "size": 64,
+    "fileBare": "svg-bare/audio.svg",
+    "colorBare": "#DB2777"
+  },
+  {
+    "name": "video",
+    "title": "Video",
+    "category": "Files",
+    "file": "svg/video.svg",
+    "color": "#6D5DF6",
+    "size": 64,
+    "fileBare": "svg-bare/video.svg",
+    "colorBare": "#5B4BE0"
+  },
+  {
+    "name": "model-3d",
+    "title": "3D Model",
+    "category": "Files",
+    "file": "svg/model-3d.svg",
+    "color": "#0EA5E9",
+    "size": 64,
+    "fileBare": "svg-bare/model-3d.svg",
+    "colorBare": "#0284C7"
+  },
+  {
+    "name": "document",
+    "title": "Document",
+    "category": "Files",
+    "file": "svg/document.svg",
+    "color": "#3B82F6",
+    "size": 64,
+    "fileBare": "svg-bare/document.svg",
+    "colorBare": "#2563EB"
+  },
+  {
+    "name": "rust",
+    "title": "Rust",
+    "category": "Languages",
+    "file": "svg/rust.svg",
+    "color": "#D3451E",
+    "size": 64,
+    "fileBare": "svg-bare/rust.svg",
+    "colorBare": "#D3451E"
+  },
+  {
+    "name": "python",
+    "title": "Python",
+    "category": "Languages",
+    "file": "svg/python.svg",
+    "color": "#3776AB",
+    "size": 64,
+    "fileBare": "svg-bare/python.svg",
+    "colorBare": "#3776AB"
+  },
+  {
+    "name": "javascript",
+    "title": "JavaScript",
+    "category": "Languages",
+    "file": "svg/javascript.svg",
+    "color": "#F7DF1E",
+    "size": 64,
+    "fileBare": "svg-bare/javascript.svg",
+    "colorBare": "#D4A000"
+  },
+  {
+    "name": "typescript",
+    "title": "TypeScript",
+    "category": "Languages",
+    "file": "svg/typescript.svg",
+    "color": "#3178C6",
+    "size": 64,
+    "fileBare": "svg-bare/typescript.svg",
+    "colorBare": "#3178C6"
+  },
+  {
+    "name": "c",
+    "title": "C",
+    "category": "Languages",
+    "file": "svg/c.svg",
+    "color": "#A8B9CC",
+    "size": 64,
+    "fileBare": "svg-bare/c.svg",
+    "colorBare": "#5B7A99"
+  },
+  {
+    "name": "cpp",
+    "title": "C++",
+    "category": "Languages",
+    "file": "svg/cpp.svg",
+    "color": "#00599C",
+    "size": 64,
+    "fileBare": "svg-bare/cpp.svg",
+    "colorBare": "#0B6FAE"
+  },
+  {
+    "name": "csharp",
+    "title": "C#",
+    "category": "Languages",
+    "file": "svg/csharp.svg",
+    "color": "#68217A",
+    "size": 64,
+    "fileBare": "svg-bare/csharp.svg",
+    "colorBare": "#7C3AED"
+  },
+  {
+    "name": "json",
+    "title": "JSON",
+    "category": "Data",
+    "file": "svg/json.svg",
+    "color": "#D97706",
+    "size": 64,
+    "fileBare": "svg-bare/json.svg",
+    "colorBare": "#D97706"
+  },
+  {
+    "name": "yaml",
+    "title": "YAML",
+    "category": "Data",
+    "file": "svg/yaml.svg",
+    "color": "#CB171E",
+    "size": 64,
+    "fileBare": "svg-bare/yaml.svg",
+    "colorBare": "#C81E2D"
+  },
+  {
+    "name": "toml",
+    "title": "TOML",
+    "category": "Data",
+    "file": "svg/toml.svg",
+    "color": "#9C4121",
+    "size": 64,
+    "fileBare": "svg-bare/toml.svg",
+    "colorBare": "#A34E2A"
+  },
+  {
+    "name": "markdown",
+    "title": "Markdown",
+    "category": "Data",
+    "file": "svg/markdown.svg",
+    "color": "#29303B",
+    "size": 64,
+    "fileBare": "svg-bare/markdown.svg",
+    "colorBare": "#64748B"
+  },
+  {
+    "name": "html",
+    "title": "HTML",
+    "category": "Web",
+    "file": "svg/html.svg",
+    "color": "#E34F26",
+    "size": 64,
+    "fileBare": "svg-bare/html.svg",
+    "colorBare": "#E34F26"
+  },
+  {
+    "name": "css",
+    "title": "CSS",
+    "category": "Web",
+    "file": "svg/css.svg",
+    "color": "#1572B6",
+    "size": 64,
+    "fileBare": "svg-bare/css.svg",
+    "colorBare": "#1572B6"
+  },
+  {
+    "name": "react",
+    "title": "React",
+    "category": "Frameworks",
+    "file": "svg/react.svg",
+    "color": "#20232A",
+    "size": 64,
+    "fileBare": "svg-bare/react.svg",
+    "colorBare": "#0891B2"
+  },
+  {
+    "name": "node",
+    "title": "Node.js",
+    "category": "Frameworks",
+    "file": "svg/node.svg",
+    "color": "#3F8F3A",
+    "size": 64,
+    "fileBare": "svg-bare/node.svg",
+    "colorBare": "#4C9A47"
+  },
+  {
+    "name": "docker",
+    "title": "Docker",
+    "category": "Tools",
+    "file": "svg/docker.svg",
+    "color": "#2496ED",
+    "size": 64,
+    "fileBare": "svg-bare/docker.svg",
+    "colorBare": "#2496ED"
+  },
+  {
+    "name": "git",
+    "title": "Git",
+    "category": "Tools",
+    "file": "svg/git.svg",
+    "color": "#F05032",
+    "size": 64,
+    "fileBare": "svg-bare/git.svg",
+    "colorBare": "#F05032"
+  },
+  {
+    "name": "terminal",
+    "title": "Terminal",
+    "category": "Tools",
+    "file": "svg/terminal.svg",
+    "color": "#111827",
+    "size": 64,
+    "fileBare": "svg-bare/terminal.svg",
+    "colorBare": "#059669"
+  },
+  {
+    "name": "code",
+    "title": "Source Code",
+    "category": "Tools",
+    "file": "svg/code.svg",
+    "color": "#4F46E5",
+    "size": 64,
+    "fileBare": "svg-bare/code.svg",
+    "colorBare": "#4F46E5"
+  },
+  {
+    "name": "database",
+    "title": "Database",
+    "category": "Tools",
+    "file": "svg/database.svg",
+    "color": "#0F9D76",
+    "size": 64,
+    "fileBare": "svg-bare/database.svg",
+    "colorBare": "#0F9D76"
+  },
+  {
+    "name": "package",
+    "title": "Package",
+    "category": "Tools",
+    "file": "svg/package.svg",
+    "color": "#B45309",
+    "size": 64,
+    "fileBare": "svg-bare/package.svg",
+    "colorBare": "#B45309"
+  },
+  {
+    "name": "game-engine",
+    "title": "Game Engine",
+    "category": "Tools",
+    "file": "svg/game-engine.svg",
+    "color": "#7C3AED",
+    "size": 64,
+    "fileBare": "svg-bare/game-engine.svg",
+    "colorBare": "#7C3AED"
+  },
+  {
+    "name": "config",
+    "title": "Configuration",
+    "category": "Tools",
+    "file": "svg/config.svg",
+    "color": "#475569",
+    "size": 64,
+    "fileBare": "svg-bare/config.svg",
+    "colorBare": "#475569"
+  },
+  {
+    "name": "shader",
+    "title": "Shader",
+    "category": "Graphics",
+    "file": "svg/shader.svg",
+    "color": "#8B5CF6",
+    "size": 64,
+    "fileBare": "svg-bare/shader.svg",
+    "colorBare": "#8B5CF6"
+  }
+]
