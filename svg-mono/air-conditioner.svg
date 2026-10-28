@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.715909 -3.212003 31.431818 31.431818" role="img" aria-labelledby="title-svg-mono-air-conditioner">
+  <title id="title-svg-mono-air-conditioner">Air conditioner</title>
+  <g fill="none" stroke="#eeeeee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="4" width="20" height="10" rx="2"/>
+    <path d="M2 10H22M6 14V17Q6 20 3 20M12 14V21M18 14V17Q18 20 21 20"/>
+    <path d="M17 7H19"/>
+  </g>
+</svg>

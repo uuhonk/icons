@@ -1,11 +1,11 @@
 # Codecraft Icons
 
-58 枚用于编程 / IDE / 编辑器 / 游戏引擎 / 代码文件场景的图标：
+110 枚用于编程 / IDE / 编辑器 / 游戏引擎 / 代码文件 / 家居 / 自然与通用场景的图标：
 
 - `svg-bare/`：彩色版本，透明背景，适合文件树、工具栏和编辑器 UI；
 - `svg-mono/`：无色版本，与彩色版本一一对应，适合单色主题或需要自行着色的场景；
-- `tags.json`：每个图标的搜索 tags；
-- `preview.html`：简单预览，只显示图标、名字和 tags，可在彩色／无色之间切换。
+- `tags.json`：每个图标的搜索 tags，使用 `编程语言` tag 标记语言和开发工具；
+- `preview.html`：显示图标、名字和 tags，支持彩色／无色切换及全部／编程语言／其他筛选。每个图标都有统一 56 × 56 的低透明度虚线框，方便比较大小。
 
 > 交互预览：[`preview.html`](preview.html)。旧 `svg/` 带底板版本保留用于兼容，但预览不再显示。
 
@@ -31,9 +31,47 @@
 ```json
 {
   "name": "rust",
-  "tags": ["rust", "languages"]
+  "tags": ["rust", "languages", "编程语言"]
 }
 ```
+
+筛选直接依据 `tags`，无需额外的 `category` 字段。`编程语言` tag 仅用于语言、框架及开发工具图标（19 枚）；通用控件、普通文件、地形、家居、自然等图标归入“其他”（91 枚）。编辑 `tags.json` 后需同步 `preview.html` 中的内嵌清单，以支持直接打开 HTML 预览。
+
+## 场景与通用图标
+
+以下名称均可用于彩色、单色版本及 Rust `get(name)`；`tags.json` 和预览中包含对应中文 tags，归入“其他”。
+
+原 `settings` 图标已删除，设置用途统一使用 `gear`；其 tags 包含 `settings`、`options`、`preferences` 和“设置”。
+
+| 图标 | 名称 | 图标 | 名称 |
+| --- | --- | --- | --- |
+| 柜子 | `cabinet` | 椅子 | `chair` |
+| 桌子 | `table` | 装饰 | `decoration` |
+| 齿轮 | `gear` | 房间 | `room` |
+| 地板 | `floor` | 墙 | `wall` |
+| 窗 | `window` | 玻璃 | `glass` |
+| 空调 | `air-conditioner` | 床 | `bed` |
+| 时钟 | `clock` | 猫咪 | `cat` |
+| 狗狗 | `dog` | 植物 | `plant` |
+| 盆栽 | `potted-plant` | 枕头 | `pillow` |
+| 花洒（tags：花洒、卫浴） | `shower` | 马桶 | `toilet` |
+| 镜子 | `mirror` | 地毯 | `rug` |
+| 书本 | `book` | 电脑 | `computer` |
+| 灯（落地灯） | `lamp` | 灯泡 | `light-bulb` |
+| 台灯 | `desk-lamp` | 沙发 | `sofa` |
+| 煤气灶 | `gas-stove` | 烤箱 | `oven` |
+| 微波炉 | `microwave` | 水龙头 | `faucet` |
+| 刀具 | `knife` | 面包 | `bread` |
+| 盘子 | `plate` | 碗 | `bowl` |
+| 餐叉 | `fork` | 太阳 | `sun` |
+| 月亮 | `moon` | 星星 | `star` |
+| 山 | `mountain` | 河 | `river` |
+| 水 | `water` | 火 | `fire` |
+| 冰 | `ice` | 雷 | `lightning` |
+| 树木 | `tree` | 花朵 | `flower` |
+| 石头 | `rock` | 上箭头 | `arrow-up` |
+| 下箭头 | `arrow-down` | 左箭头 | `arrow-left` |
+| 右箭头 | `arrow-right` | | |
 
 ## 文件结构
 
@@ -42,8 +80,8 @@
 ├── svg-bare/                  # 彩色透明 SVG（当前图标库）
 ├── svg-mono/                  # 无色 SVG（与 svg-bare 一一对应）
 ├── svg/                       # 旧带底板 SVG（兼容保留）
-├── tags.json                  # 每个图标的 tags
-├── preview.html               # 简单预览：图标 / 名字 / tags，彩色／无色切换
+├── tags.json                  # 每个图标的 tags（含编程语言 tag）
+├── preview.html               # 图标 / 名字 / tags、配色切换与分类筛选
 ├── manifest.json              # 旧带底板清单（兼容保留）
 ├── rust/                      # uuhonk_icons crate + build.rs + rust-toolchain.toml
 ├── README.md
@@ -68,12 +106,12 @@ crate 只提供名字和 SVG 字符串（`Icon`、`ICONS`、`get`、`names`）�
 - **画布**：统一 64 × 64，透明外边缘。
 - **带底板**：56 × 56 底板，`rx="18"`，对角双色渐变；字形为白色或高对比深色。
 - **无底板**：无底板矩形，透明背景；字形为纯色实心填充，Python 保留蓝/黄双色，Node.js 为绿色六边形 + 透明 JS 镂空。
-- **尺寸统一**：方形 / 近方形图标的无底板包围盒约 42 × 42；宽幅图形按 44–48 px 宽归一化，高度随比例变化，避免大小忽大忽小。
-- **全实心**：没有依赖描边的线性图形；所有图标均为填充形状。
+- **尺寸统一**：彩色及单色版本按实际可见内容的 alpha 包围盒归一化，包含描边。64 × 64 输出中，可见最长边统一为约 44 px（高分辨率测量误差不超过 0.125 px），包围盒居中；保持长宽比，较短边随原始形状变化。通过调整 SVG `viewBox` 实现，直接引用 SVG 或通过 Rust 使用均生效。旧 `svg/` 带底板版本保留原尺寸。
+- **字形**：原有技术与文件类型图标采用实心填充；编辑器工具及新增场景图标采用圆角线条，场景图标沿用 24 单位设计网格、1.6 单位描边，输出尺寸仍为 64 × 64。
 - **可访问性**：每个文件内置 `<title>` 与 `aria-labelledby`。
 - **可内联**：gradient / mask / title ID 均带图标名，批量内联不会有 ID 冲突。
 - **可缩放**：建议展示尺寸 20–64 px；无底板版本在 24 px 以上最清晰。
-- **来源**：字形来自 Material Symbols、Simple Icons、Devicon、Material Icon Theme，并按各自开源许可重新着色与组合；详见下方许可部分。
+- **来源**：原有字形来自 Material Symbols、Simple Icons、Devicon、Material Icon Theme，并按各自开源许可重新着色与组合；新增场景与通用字形为原创，采用本项目 MIT 许可。详见下方许可部分。
 
 ## 修改颜色
 

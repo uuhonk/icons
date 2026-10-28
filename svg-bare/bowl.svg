@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.732955 -2.742720 31.465909 31.465909" role="img" aria-labelledby="title-svg-bare-bowl">
+  <title id="title-svg-bare-bowl">Bowl</title>
+  <g fill="none" stroke="#60A5FA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="12" cy="8" rx="10" ry="3"/><path d="M2 8Q3 19 12 19Q21 19 22 8M9 19V21H15V19"/>
+  </g>
+</svg>

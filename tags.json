@@ -9,10 +9,90 @@
     ]
   },
   {
+    "name": "air-conditioner",
+    "tags": [
+      "air-conditioner",
+      "ac",
+      "cooling",
+      "appliance",
+      "空调",
+      "制冷"
+    ]
+  },
+  {
+    "name": "arrow-down",
+    "tags": [
+      "arrow-down",
+      "down",
+      "direction",
+      "navigation",
+      "下",
+      "向下",
+      "箭头"
+    ]
+  },
+  {
+    "name": "arrow-left",
+    "tags": [
+      "arrow-left",
+      "left",
+      "direction",
+      "navigation",
+      "左",
+      "向左",
+      "箭头"
+    ]
+  },
+  {
+    "name": "arrow-right",
+    "tags": [
+      "arrow-right",
+      "right",
+      "direction",
+      "navigation",
+      "右",
+      "向右",
+      "箭头"
+    ]
+  },
+  {
+    "name": "arrow-up",
+    "tags": [
+      "arrow-up",
+      "up",
+      "direction",
+      "navigation",
+      "上",
+      "向上",
+      "箭头"
+    ]
+  },
+  {
     "name": "audio",
     "tags": [
       "audio",
       "files"
+    ]
+  },
+  {
+    "name": "bed",
+    "tags": [
+      "bed",
+      "sleep",
+      "bedroom",
+      "furniture",
+      "床",
+      "卧室"
+    ]
+  },
+  {
+    "name": "book",
+    "tags": [
+      "book",
+      "reading",
+      "library",
+      "书本",
+      "书籍"
     ]
   },
   {
@@ -22,6 +102,25 @@
       "edge",
       "outline",
       "terrain"
+    ]
+  },
+  {
+    "name": "bowl",
+    "tags": [
+      "bowl",
+      "tableware",
+      "碗",
+      "餐具"
+    ]
+  },
+  {
+    "name": "bread",
+    "tags": [
+      "bread",
+      "toast",
+      "food",
+      "面包",
+      "吐司"
     ]
   },
   {
@@ -37,7 +136,40 @@
     "name": "c",
     "tags": [
       "c",
-      "languages"
+      "languages",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "cabinet",
+    "tags": [
+      "cabinet",
+      "cupboard",
+      "wardrobe",
+      "furniture",
+      "柜子",
+      "衣柜"
+    ]
+  },
+  {
+    "name": "cat",
+    "tags": [
+      "cat",
+      "kitten",
+      "pet",
+      "animal",
+      "猫咪",
+      "猫"
+    ]
+  },
+  {
+    "name": "chair",
+    "tags": [
+      "chair",
+      "seat",
+      "furniture",
+      "椅子",
+      "座椅"
     ]
   },
   {
@@ -47,6 +179,17 @@
       "circle",
       "round",
       "shape"
+    ]
+  },
+  {
+    "name": "clock",
+    "tags": [
+      "clock",
+      "time",
+      "watch",
+      "时钟",
+      "钟表",
+      "时间"
     ]
   },
   {
@@ -63,7 +206,18 @@
     "tags": [
       "code",
       "source code",
-      "tools"
+      "tools",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "computer",
+    "tags": [
+      "computer",
+      "desktop",
+      "pc",
+      "电脑",
+      "计算机"
     ]
   },
   {
@@ -79,7 +233,8 @@
     "tags": [
       "c++",
       "cpp",
-      "languages"
+      "languages",
+      "编程语言"
     ]
   },
   {
@@ -87,28 +242,52 @@
     "tags": [
       "c#",
       "csharp",
-      "languages"
+      "languages",
+      "编程语言"
     ]
   },
   {
     "name": "css",
     "tags": [
       "css",
-      "web"
+      "web",
+      "编程语言"
     ]
   },
   {
     "name": "database",
     "tags": [
       "database",
-      "tools"
+      "tools",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "decoration",
+    "tags": [
+      "decoration",
+      "decor",
+      "wall art",
+      "interior",
+      "装饰",
+      "挂画"
+    ]
+  },
+  {
+    "name": "desk-lamp",
+    "tags": [
+      "desk-lamp",
+      "table lamp",
+      "lighting",
+      "台灯"
     ]
   },
   {
     "name": "docker",
     "tags": [
       "docker",
-      "tools"
+      "tools",
+      "编程语言"
     ]
   },
   {
@@ -116,6 +295,26 @@
     "tags": [
       "document",
       "files"
+    ]
+  },
+  {
+    "name": "dog",
+    "tags": [
+      "dog",
+      "puppy",
+      "pet",
+      "animal",
+      "狗狗",
+      "狗"
+    ]
+  },
+  {
+    "name": "eye",
+    "tags": [
+      "eye",
+      "show",
+      "view",
+      "visible"
     ]
   },
   {
@@ -129,12 +328,14 @@
     ]
   },
   {
-    "name": "eye",
+    "name": "faucet",
     "tags": [
-      "eye",
-      "show",
-      "view",
-      "visible"
+      "faucet",
+      "tap",
+      "plumbing",
+      "bathroom",
+      "水龙头",
+      "卫浴"
     ]
   },
   {
@@ -147,11 +348,34 @@
     ]
   },
   {
-    "name": "folder-open",
+    "name": "fire",
     "tags": [
-      "directory",
-      "folder",
-      "open"
+      "fire",
+      "flame",
+      "heat",
+      "火",
+      "火焰"
+    ]
+  },
+  {
+    "name": "floor",
+    "tags": [
+      "floor",
+      "flooring",
+      "tiles",
+      "地板",
+      "地面",
+      "瓷砖"
+    ]
+  },
+  {
+    "name": "flower",
+    "tags": [
+      "flower",
+      "blossom",
+      "nature",
+      "花朵",
+      "花"
     ]
   },
   {
@@ -162,19 +386,77 @@
     ]
   },
   {
+    "name": "folder-open",
+    "tags": [
+      "directory",
+      "folder",
+      "open"
+    ]
+  },
+  {
+    "name": "fork",
+    "tags": [
+      "fork",
+      "cutlery",
+      "tableware",
+      "餐叉",
+      "叉子",
+      "餐具"
+    ]
+  },
+  {
     "name": "game-engine",
     "tags": [
       "engine",
       "game",
       "game engine",
-      "tools"
+      "tools",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "gas-stove",
+    "tags": [
+      "gas-stove",
+      "stove",
+      "cooktop",
+      "kitchen",
+      "煤气灶",
+      "燃气灶",
+      "厨具"
+    ]
+  },
+  {
+    "name": "gear",
+    "tags": [
+      "gear",
+      "cog",
+      "cogwheel",
+      "mechanical",
+      "齿轮",
+      "options",
+      "preferences",
+      "settings",
+      "设置"
     ]
   },
   {
     "name": "git",
     "tags": [
       "git",
-      "tools"
+      "tools",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "glass",
+    "tags": [
+      "glass",
+      "pane",
+      "transparent",
+      "material",
+      "玻璃",
+      "玻璃板"
     ]
   },
   {
@@ -211,7 +493,18 @@
     "name": "html",
     "tags": [
       "html",
-      "web"
+      "web",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "ice",
+    "tags": [
+      "ice",
+      "snowflake",
+      "cold",
+      "冰",
+      "冰雪"
     ]
   },
   {
@@ -235,7 +528,8 @@
     "name": "javascript",
     "tags": [
       "javascript",
-      "languages"
+      "languages",
+      "编程语言"
     ]
   },
   {
@@ -246,10 +540,61 @@
     ]
   },
   {
+    "name": "knife",
+    "tags": [
+      "knife",
+      "cutlery",
+      "kitchen",
+      "刀具",
+      "菜刀",
+      "厨具"
+    ]
+  },
+  {
+    "name": "lamp",
+    "tags": [
+      "lamp",
+      "floor lamp",
+      "lighting",
+      "灯",
+      "落地灯"
+    ]
+  },
+  {
+    "name": "light-bulb",
+    "tags": [
+      "light-bulb",
+      "bulb",
+      "lighting",
+      "灯泡",
+      "照明"
+    ]
+  },
+  {
+    "name": "lightning",
+    "tags": [
+      "lightning",
+      "thunder",
+      "electricity",
+      "雷",
+      "闪电"
+    ]
+  },
+  {
     "name": "markdown",
     "tags": [
       "data",
       "markdown"
+    ]
+  },
+  {
+    "name": "microwave",
+    "tags": [
+      "microwave",
+      "appliance",
+      "kitchen",
+      "微波炉",
+      "厨房"
     ]
   },
   {
@@ -263,6 +608,16 @@
     ]
   },
   {
+    "name": "mirror",
+    "tags": [
+      "mirror",
+      "reflection",
+      "bathroom",
+      "镜子",
+      "卫浴"
+    ]
+  },
+  {
     "name": "model-3d",
     "tags": [
       "3d",
@@ -272,11 +627,32 @@
     ]
   },
   {
+    "name": "moon",
+    "tags": [
+      "moon",
+      "night",
+      "crescent",
+      "月亮",
+      "夜晚"
+    ]
+  },
+  {
+    "name": "mountain",
+    "tags": [
+      "mountain",
+      "peak",
+      "landscape",
+      "山",
+      "山峰"
+    ]
+  },
+  {
     "name": "node",
     "tags": [
       "frameworks",
       "node",
-      "node.js"
+      "node.js",
+      "编程语言"
     ]
   },
   {
@@ -290,10 +666,22 @@
     ]
   },
   {
+    "name": "oven",
+    "tags": [
+      "oven",
+      "baking",
+      "appliance",
+      "kitchen",
+      "烤箱",
+      "厨房"
+    ]
+  },
+  {
     "name": "package",
     "tags": [
       "package",
-      "tools"
+      "tools",
+      "编程语言"
     ]
   },
   {
@@ -303,6 +691,37 @@
       "collision",
       "physics",
       "simulation"
+    ]
+  },
+  {
+    "name": "pillow",
+    "tags": [
+      "pillow",
+      "cushion",
+      "bedding",
+      "枕头",
+      "抱枕"
+    ]
+  },
+  {
+    "name": "plant",
+    "tags": [
+      "plant",
+      "leaves",
+      "foliage",
+      "vegetation",
+      "植物",
+      "绿植"
+    ]
+  },
+  {
+    "name": "plate",
+    "tags": [
+      "plate",
+      "dish",
+      "tableware",
+      "盘子",
+      "餐具"
     ]
   },
   {
@@ -316,17 +735,30 @@
     ]
   },
   {
+    "name": "potted-plant",
+    "tags": [
+      "potted-plant",
+      "pot",
+      "planter",
+      "houseplant",
+      "盆栽",
+      "花盆"
+    ]
+  },
+  {
     "name": "python",
     "tags": [
       "languages",
-      "python"
+      "python",
+      "编程语言"
     ]
   },
   {
     "name": "react",
     "tags": [
       "frameworks",
-      "react"
+      "react",
+      "编程语言"
     ]
   },
   {
@@ -338,10 +770,51 @@
     ]
   },
   {
+    "name": "river",
+    "tags": [
+      "river",
+      "stream",
+      "landscape",
+      "河",
+      "河流"
+    ]
+  },
+  {
+    "name": "rock",
+    "tags": [
+      "rock",
+      "stone",
+      "boulder",
+      "nature",
+      "石头",
+      "岩石"
+    ]
+  },
+  {
+    "name": "room",
+    "tags": [
+      "room",
+      "interior",
+      "space",
+      "房间",
+      "室内"
+    ]
+  },
+  {
+    "name": "rug",
+    "tags": [
+      "rug",
+      "carpet",
+      "textile",
+      "地毯"
+    ]
+  },
+  {
     "name": "rust",
     "tags": [
       "languages",
-      "rust"
+      "rust",
+      "编程语言"
     ]
   },
   {
@@ -372,19 +845,11 @@
     ]
   },
   {
-    "name": "settings",
-    "tags": [
-      "gear",
-      "options",
-      "preferences",
-      "settings"
-    ]
-  },
-  {
     "name": "shader",
     "tags": [
       "graphics",
-      "shader"
+      "shader",
+      "编程语言"
     ]
   },
   {
@@ -397,12 +862,60 @@
     ]
   },
   {
+    "name": "shower",
+    "tags": [
+      "shower",
+      "bathroom",
+      "花洒",
+      "卫浴"
+    ]
+  },
+  {
+    "name": "sofa",
+    "tags": [
+      "sofa",
+      "couch",
+      "furniture",
+      "沙发"
+    ]
+  },
+  {
     "name": "square",
     "tags": [
       "box",
       "brush",
       "shape",
       "square"
+    ]
+  },
+  {
+    "name": "star",
+    "tags": [
+      "star",
+      "night",
+      "sky",
+      "星星",
+      "星"
+    ]
+  },
+  {
+    "name": "sun",
+    "tags": [
+      "sun",
+      "sunshine",
+      "weather",
+      "太阳",
+      "阳光"
+    ]
+  },
+  {
+    "name": "table",
+    "tags": [
+      "table",
+      "desk",
+      "furniture",
+      "桌子",
+      "书桌"
     ]
   },
   {
@@ -418,7 +931,17 @@
     "name": "terminal",
     "tags": [
       "terminal",
-      "tools"
+      "tools",
+      "编程语言"
+    ]
+  },
+  {
+    "name": "toilet",
+    "tags": [
+      "toilet",
+      "bathroom",
+      "马桶",
+      "卫浴"
     ]
   },
   {
@@ -438,10 +961,22 @@
     ]
   },
   {
+    "name": "tree",
+    "tags": [
+      "tree",
+      "wood",
+      "forest",
+      "nature",
+      "树木",
+      "树"
+    ]
+  },
+  {
     "name": "typescript",
     "tags": [
       "languages",
-      "typescript"
+      "typescript",
+      "编程语言"
     ]
   },
   {
@@ -462,12 +997,43 @@
     ]
   },
   {
+    "name": "wall",
+    "tags": [
+      "wall",
+      "brick",
+      "structure",
+      "墙",
+      "墙壁",
+      "砖墙"
+    ]
+  },
+  {
     "name": "warning",
     "tags": [
       "alert",
       "caution",
       "error",
       "warning"
+    ]
+  },
+  {
+    "name": "water",
+    "tags": [
+      "water",
+      "drop",
+      "liquid",
+      "水",
+      "水滴"
+    ]
+  },
+  {
+    "name": "window",
+    "tags": [
+      "window",
+      "window frame",
+      "interior",
+      "窗",
+      "窗户"
     ]
   },
   {

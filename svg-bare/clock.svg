@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-2.284091 -2.284091 28.568182 28.568182" role="img" aria-labelledby="title-svg-bare-clock">
+  <title id="title-svg-bare-clock">Clock</title>
+  <g fill="none" stroke="#F59E0B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/>
+    <path d="M12 6V12L16 14"/>
+  </g>
+</svg>

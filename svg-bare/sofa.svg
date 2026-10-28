@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-5.173295 -4.170366 34.346591 34.346591" role="img" aria-labelledby="title-svg-bare-sofa">
+  <title id="title-svg-bare-sofa">Sofa</title>
+  <g fill="none" stroke="#C084FC" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 11V7Q5 4 8 4H16Q19 4 19 7V11M12 4V14M5 20V22M19 20V22"/><path d="M3 11Q5 11 5 13V15H19V13Q19 11 21 11Q23 11 23 13V18Q23 20 21 20H3Q1 20 1 18V13Q1 11 3 11Z"/>
+  </g>
+</svg>

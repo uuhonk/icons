@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-4.268466 -4.636630 32.536932 32.536932" role="img" aria-labelledby="title-svg-mono-light-bulb">
+  <title id="title-svg-mono-light-bulb">Light bulb</title>
+  <g fill="none" stroke="#eeeeee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 16Q8 14 6.5 12Q3 7 7 3.5Q12-1 17 3.5Q21 7 17.5 12Q16 14 16 16ZM8 19H16M10 22H14M12 16V11M9 9L12 11L15 9"/>
+  </g>
+</svg>

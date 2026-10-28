@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-4.288086 -4.948242 32.906250 32.906250" role="img" aria-labelledby="title-svg-bare-flower">
+  <title id="title-svg-bare-flower">Flower</title>
+  <g fill="none" stroke="#F472B6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 14V22M12 20Q5 21 5 16Q11 15 12 20M12 18Q19 19 19 14Q13 13 12 18M9 5Q8 1 12 1Q16 1 15 5Q20 3 20 7Q20 11 16 10Q18 14 14 15Q12 16 10 13Q7 16 5 13Q3 10 7 9Q3 7 5 4Q7 2 9 5Z"/><circle cx="12" cy="8" r="2"/>
+  </g>
+</svg>

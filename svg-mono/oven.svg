@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.732955 -3.732955 31.465909 31.465909" role="img" aria-labelledby="title-svg-mono-oven">
+  <title id="title-svg-mono-oven">Oven</title>
+  <g fill="none" stroke="#eeeeee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="2" width="18" height="20" rx="1.5"/><path d="M3 7H21M7 4.5H8M12 4.5H13M17 4.5H18M7 11H17V18H7ZM9 11V13H15V11"/>
+  </g>
+</svg>

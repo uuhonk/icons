@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.715909 -3.212003 31.431818 31.431818" role="img" aria-labelledby="title-svg-mono-dog">
+  <title id="title-svg-mono-dog">Dog</title>
+  <g fill="none" stroke="#eeeeee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 6Q12 2 17 6M7 6L4 5Q2 5 2 8V13Q2 16 5 15L7 12ZM17 6L20 5Q22 5 22 8V13Q22 16 19 15L17 12ZM5 15Q5 21 12 21Q19 21 19 15"/>
+    <path d="M9 10V11M15 10V11M10.5 15L12 16.5L13.5 15ZM12 16.5V18"/>
+  </g>
+</svg>

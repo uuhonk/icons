@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.715909 -2.215909 31.431818 31.431818" role="img" aria-labelledby="title-svg-bare-floor">
+  <title id="title-svg-bare-floor">Floor</title>
+  <g fill="none" stroke="#D97706" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2 12L12 5L22 12L12 19ZM7 8.5L17 15.5M7 15.5L17 8.5M2 12V15L12 22L22 15V12"/>
+  </g>
+</svg>

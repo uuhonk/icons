@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.715909 -3.715909 31.431818 31.431818" role="img" aria-labelledby="title-svg-bare-window">
+  <title id="title-svg-bare-window">Window</title>
+  <g fill="none" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="3" width="16" height="17" rx="1"/>
+    <path d="M12 3V20M4 11H20M2 21H22"/>
+  </g>
+</svg>

@@ -42,6 +42,8 @@ Full license texts are included in [`LICENSES/`](LICENSES/).
 
 The following are original to this set and released under the MIT license in [`LICENSE`](LICENSE):
 
+- the home and interior glyphs: `cabinet`, `chair`, `table`, `decoration`, `gear`, `room`, `floor`, `wall`, `window`, `glass`, `air-conditioner`, `bed`, `clock`, `cat`, `dog`, `plant`, `potted-plant`, and `pillow`, in both `svg-bare/` and `svg-mono/`;
+- the bathroom, household, food, nature, and arrow glyphs: `shower`, `toilet`, `mirror`, `rug`, `book`, `computer`, `lamp`, `light-bulb`, `desk-lamp`, `sofa`, `gas-stove`, `oven`, `microwave`, `faucet`, `knife`, `bread`, `plate`, `bowl`, `fork`, `sun`, `moon`, `star`, `mountain`, `river`, `water`, `fire`, `ice`, `lightning`, `tree`, `flower`, `rock`, `arrow-up`, `arrow-down`, `arrow-left`, and `arrow-right`, in both `svg-bare/` and `svg-mono/`;
 - the 64 × 64 rounded-tile system, gradient color selection, and layout;
 - the transparent, tile-free color system and consistent optical sizing across both variants;
 - glyph centering, scaling, and composition;

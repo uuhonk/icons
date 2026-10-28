@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.715909 -1.712003 31.431818 31.431818" role="img" aria-labelledby="title-svg-bare-table">
+  <title id="title-svg-bare-table">Table</title>
+  <g fill="none" stroke="#B45309" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2" y="7" width="20" height="4" rx="1"/>
+    <path d="M5 11V21M19 11V21M5 16H19"/>
+  </g>
+</svg>

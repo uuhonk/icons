@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="-3.000000 -3.000000 30.000000 30.000000" role="img" aria-labelledby="title-svg-mono-wall">
+  <title id="title-svg-mono-wall">Wall</title>
+  <g fill="none" stroke="#eeeeee" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="2.5" y="4" width="19" height="16" rx="1"/>
+    <path d="M2.5 9.5H21.5M2.5 14.5H21.5M9 4V9.5M15 9.5V14.5M9 14.5V20"/>
+  </g>
+</svg>
