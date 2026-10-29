@@ -2,7 +2,7 @@
 name = "uuhonk_icons"
 version = "0.1.0"
 edition = "2024"
-rust-version = "1.97.1"
+rust-version = "1.99.1"
 description = "Embedded SVG icon data from the uuhonk icon library"
 license-file = "../LICENSE"
 
